@@ -1,3 +1,7 @@
+html {
+    background-color: black;
+}
+
 header {
     text-align: center;
     font-weight: bold;
@@ -9,6 +13,7 @@ header {
 body {
     max-width: 1000px;
     border: 5px solid green;
+    background-color: white;
     font-size: 70%;
     margin: auto;
 }
